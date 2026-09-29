@@ -1,0 +1,10 @@
+{
+  "packages":{
+    "PKG001":{
+      "id":"PKG001","status":"Preparing","product":"ROGUELAB T-Shirt",
+      "quantity":1,"weight":"350 g","declaredValue":"USD 25",
+      "origin":"Sri Lanka","destination":"United Kingdom",
+      "tracking":"","estimatedDelivery":"","updatedAt":"2026-09-29"
+    }
+  }
+}
